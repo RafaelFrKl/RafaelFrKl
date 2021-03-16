@@ -1,0 +1,4 @@
+- Hi, I’m Rafael Freire Kloecking
+- I'm an aspiring Software Engineer who's curious about the world and always trying to learn something new
+- Here you can find a portfolio of all my personal projects that I made to learn new skills
+- Send an email to rafael.freire.kloecking@gmail.com to reach me
